@@ -1,0 +1,11 @@
+name = "Xorg_xkeyboard_config_jll"
+uuid = "33bec58e-1273-512f-9401-5d533626f822"
+version = "2.27.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Xorg_xkbcomp_jll = "35661453-b289-5fab-8a00-3d9160c6a3a4"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
