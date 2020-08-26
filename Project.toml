@@ -1,6 +1,6 @@
 name = "Xorg_xkeyboard_config_jll"
 uuid = "33bec58e-1273-512f-9401-5d533626f822"
-version = "2.27.0+2"
+version = "2.27.0+3"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"

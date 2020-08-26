@@ -1,89 +1,89 @@
 [[Xorg_xkeyboard_config]]
 arch = "aarch64"
-git-tree-sha1 = "6a307098933dd36b44ab81ff40098e43295519c8"
+git-tree-sha1 = "563b751229dc4a61fdd4995ecd2a90bc61d752e6"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_xkeyboard_config.download]]
-    sha256 = "ea12a01b5e8e390e19f984b92e89d7bac71d5c42b89a838c226fc3a8bacb6fd3"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+2/Xorg_xkeyboard_config.v2.27.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "cf64f4eaaebdbdc90a7a19de6f003a35a93a7ee4c3b208d977708c5191e7c2c6"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+3/Xorg_xkeyboard_config.v2.27.0.aarch64-linux-gnu.tar.gz"
 [[Xorg_xkeyboard_config]]
 arch = "aarch64"
-git-tree-sha1 = "97c8ccc588e869c80ab9e96fe61370efd82e9a13"
+git-tree-sha1 = "1779f60a24d575a63addb1dbd096fea1188c79d9"
 libc = "musl"
 os = "linux"
 
     [[Xorg_xkeyboard_config.download]]
-    sha256 = "45de65df33b1f38833701a7beaadf4f0cf70df51843dc1c72be5513225b751b2"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+2/Xorg_xkeyboard_config.v2.27.0.aarch64-linux-musl.tar.gz"
+    sha256 = "2e42d517a997724ef3a31404243be9e3469b1fcc3d8b9658f0d153e755285786"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+3/Xorg_xkeyboard_config.v2.27.0.aarch64-linux-musl.tar.gz"
 [[Xorg_xkeyboard_config]]
 arch = "armv7l"
-git-tree-sha1 = "b12ac0880422319506576397577b7161d308a9ca"
+git-tree-sha1 = "65e19158c8effb68f8668fbd3980052847ce199c"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_xkeyboard_config.download]]
-    sha256 = "7112d2c802be4037e3723fffd36f46386bc66f034bd6e4ec184b04e53f80319b"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+2/Xorg_xkeyboard_config.v2.27.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "d26d9055d09dc0e5a60552147405b7da8be0d95731edd7bf7aa99fffe242c017"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+3/Xorg_xkeyboard_config.v2.27.0.armv7l-linux-gnueabihf.tar.gz"
 [[Xorg_xkeyboard_config]]
 arch = "armv7l"
-git-tree-sha1 = "8e363b01ab53b5bf998847436c1e905a1b24f4b6"
+git-tree-sha1 = "61073f045fb4791e94f6873da0ce2321e5af92af"
 libc = "musl"
 os = "linux"
 
     [[Xorg_xkeyboard_config.download]]
-    sha256 = "caa97a23865d0ba176cdb00fc1ae592219ce380452cfe09f5d7b2c8a0e6be36e"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+2/Xorg_xkeyboard_config.v2.27.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "dbd239ea6da9879b2cb48538944b9fd16c8b5a52a8526f3f8fcadead10469ab5"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+3/Xorg_xkeyboard_config.v2.27.0.armv7l-linux-musleabihf.tar.gz"
 [[Xorg_xkeyboard_config]]
 arch = "i686"
-git-tree-sha1 = "9a6d10310976ac15beb1e79cefe8bc97cb693560"
+git-tree-sha1 = "8fd5eaac9b5c8690220195c451cd4a47ce8fe2fc"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_xkeyboard_config.download]]
-    sha256 = "65abe7b22a1ef7cf5a4275816e8da86d9197fa58a0bd75862486687f61377033"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+2/Xorg_xkeyboard_config.v2.27.0.i686-linux-gnu.tar.gz"
+    sha256 = "ea2bffedf9e7725e76ea6b9de61d353a1bb203e74985d7d139db2875437a1334"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+3/Xorg_xkeyboard_config.v2.27.0.i686-linux-gnu.tar.gz"
 [[Xorg_xkeyboard_config]]
 arch = "i686"
-git-tree-sha1 = "16abd5abbdc69904648ed620b737742f1d900439"
+git-tree-sha1 = "c3e9b81a152fb7f336c0ba8fd3103e900d0b185e"
 libc = "musl"
 os = "linux"
 
     [[Xorg_xkeyboard_config.download]]
-    sha256 = "9660a4cecf0cf6b77ccae1784ea7e13b530aa22574283070b0d8ba4d95b8a7da"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+2/Xorg_xkeyboard_config.v2.27.0.i686-linux-musl.tar.gz"
+    sha256 = "66419c2a3eca641b3506ba3a38fd49607e443a7350344ec50799872411102f04"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+3/Xorg_xkeyboard_config.v2.27.0.i686-linux-musl.tar.gz"
 [[Xorg_xkeyboard_config]]
 arch = "powerpc64le"
-git-tree-sha1 = "5d38d4e5e95c9acca929d63ef2c2a7059bcfe969"
+git-tree-sha1 = "ee91fdc5f7f520ca6a65f4d515571fcfa3fadd3d"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_xkeyboard_config.download]]
-    sha256 = "3a8984bdfcde5e460b1141c912a27f0a99014ba1787670ddc899bada87b2f1a2"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+2/Xorg_xkeyboard_config.v2.27.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "0faf58807d87265e926d0cfa8382ba31110ae3e549bd422a096553803a201f52"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+3/Xorg_xkeyboard_config.v2.27.0.powerpc64le-linux-gnu.tar.gz"
 [[Xorg_xkeyboard_config]]
 arch = "x86_64"
-git-tree-sha1 = "63e5c6519fe92ac32a9271ccea538d0d037ca31b"
+git-tree-sha1 = "be58fe5ecba3c97f24d6d6d13540b73f19c73e6f"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_xkeyboard_config.download]]
-    sha256 = "e7aed9268ab7172703f620c6a3cbbbbe321cc1ec8a8a0a075223f77c69dd7b4e"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+2/Xorg_xkeyboard_config.v2.27.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "39640762597118365679c1c5a509804cefce0c4d79fa7c0af4f1f2b5e8d0d50a"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+3/Xorg_xkeyboard_config.v2.27.0.x86_64-linux-gnu.tar.gz"
 [[Xorg_xkeyboard_config]]
 arch = "x86_64"
-git-tree-sha1 = "6d20ac5205cd735a56e9a4e349c3699a8f8769a9"
+git-tree-sha1 = "dfd7242517750f383b366d5f3f8c22f9a24bd991"
 libc = "musl"
 os = "linux"
 
     [[Xorg_xkeyboard_config.download]]
-    sha256 = "c780d92cc08a6d56d27e44185cdd410c92cdc723d08f30b4f8544148ac5b8d41"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+2/Xorg_xkeyboard_config.v2.27.0.x86_64-linux-musl.tar.gz"
+    sha256 = "9380ceb09b246f63a6e70fefc2c882c7ea8588a30806015f0c87c37848c1d795"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+3/Xorg_xkeyboard_config.v2.27.0.x86_64-linux-musl.tar.gz"
 [[Xorg_xkeyboard_config]]
 arch = "x86_64"
-git-tree-sha1 = "d285ecae4cf16a41473e3051d9977dff6d15dfb2"
+git-tree-sha1 = "858db472fa451bf7299caa806590cab1992e6f40"
 os = "freebsd"
 
     [[Xorg_xkeyboard_config.download]]
-    sha256 = "a55c149efcbec6ae7331bee11d0bda91f7718a17de0389e9effd57890b790be0"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+2/Xorg_xkeyboard_config.v2.27.0.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "dea9fd2519681ef192b43f3649ddadeca42f9073c3b9e5ce8ebbd8d68ffa7b58"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.27.0+3/Xorg_xkeyboard_config.v2.27.0.x86_64-unknown-freebsd11.1.tar.gz"
