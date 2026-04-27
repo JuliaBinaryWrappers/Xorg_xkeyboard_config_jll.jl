@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("Xorg_xkeyboard_config")
-JLLWrappers.@generate_main_file("Xorg_xkeyboard_config", UUID("33bec58e-1273-512f-9401-5d533626f822"))
+JLLWrappers.@generate_main_file("Xorg_xkeyboard_config", Base.UUID("33bec58e-1273-512f-9401-5d533626f822"))
 end  # module Xorg_xkeyboard_config_jll
