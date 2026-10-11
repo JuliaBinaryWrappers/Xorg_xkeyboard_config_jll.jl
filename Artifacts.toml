@@ -1,6 +1,6 @@
 [Xorg_xkeyboard_config]
-git-tree-sha1 = "7eb9d1f2a0c080d6602328f636f81e3842c012c2"
+git-tree-sha1 = "2e9f7b5cb5f06c35b379e234930eabcf6e05002d"
 
     [[Xorg_xkeyboard_config.download]]
-    sha256 = "ddba704957e3fc70aedc99254dbddea758030a7374e6207bd50355cb9a37ead5"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.47.0+2/Xorg_xkeyboard_config.v2.47.0.any.tar.gz"
+    sha256 = "f363b480c12dfe26276b137c58e58b0b0505bffd5f663f255cec32dcf309626b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xkeyboard_config_jll.jl/releases/download/Xorg_xkeyboard_config-v2.48.0+0/Xorg_xkeyboard_config.v2.48.0.any.tar.gz"
